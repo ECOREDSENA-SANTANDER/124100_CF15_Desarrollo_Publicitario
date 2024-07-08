@@ -197,7 +197,7 @@
                 span
                   |  Estadísticas de me gusta
               figure
-                img(src='@/assets/curso/temas/tema2/imagen10.svg' alt="Imagen de una captura de pantalla que presenta tres gráficos con características acerca de los me gusta recibidos en la pagina.")
+                img(src='@/assets/curso/temas/tema2/imagen10.svg' alt="Imagen de una captura de pantalla que presenta tres gráficos con características acerca de los me gusta recibidos en la página.")
       p.mt-5 Las siguientes son tres tipos de estas métricas:
 
     .row.tarjeta--container.mb-5(data-aos="zoom-in-left")
@@ -303,7 +303,7 @@
                 span
                   |  Estadísticas de publicaciones
               figure
-                img(src='@/assets/curso/temas/tema2/imagen14.svg' alt="Imagen de una captura de pantalla donde se presenta una grafica acerca de horas en que se ven la publicaciones, y una tabla con características del rendimiento de cada publicación.")
+                img(src='@/assets/curso/temas/tema2/imagen14.svg' alt="Imagen de una captura de pantalla donde se presenta una gráfica acerca de horas en que se ven la publicaciones, y una tabla con características del rendimiento de cada publicación.")
 
     .row.justify-content-center.align-items-center.mb-5.mt-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12.bg1.p-4
@@ -369,7 +369,7 @@
                 span
                   |  Estadísticas de personas
               figure
-                img(src='@/assets/curso/temas/tema2/imagen16.svg' alt="Imagen de captura de pantalla que presenta características de las personas que siguen la pagina.")
+                img(src='@/assets/curso/temas/tema2/imagen16.svg' alt="Imagen de captura de pantalla que presenta características de las personas que siguen la página.")
 
     .row.justify-content-center.mb-5.mt-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-3.mb-cus

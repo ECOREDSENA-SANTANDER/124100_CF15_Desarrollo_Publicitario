@@ -77,7 +77,7 @@
         p.mb-5.ps-5 Las mediciones de audiencia son una información con mucho valor para la empresa. Estas permiten conocer el perfil en detalle de los visitantes de una página para la toma de decisiones. Se encuentra:
         .row.ps-5
           .col-12
-            a.boton.color-acento-botones(href="https://www.youtube.com/watch?v=HhAMuQUXaDM" target="_blank")
+            a.boton.color-acento-botones(href="https://ecored-sena.github.io/522306_CF15_TECNOLOGIA_DESARROLLO_PUBLICITARIO//downloads/informes_audiencia.pdf" target="_blank")
               span Descargar
               i.fas.fa-download
 
