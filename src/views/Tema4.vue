@@ -12,7 +12,7 @@
         br
         br
         .cajon.color-secundario.p-4.mb-4
-          p.p-4.mb-0 <strong>Es una herramienta gratuita que permite la optimización de los sitios web para mejorar el ROI de los negocios online. Mediante esta herramienta es posible:</strong>   
+          p.p-4.mb-0 <strong>Es una herramienta gratuita que permite la optimización de los sitios web para mejorar el ROI de los negocios <em>online</em>. Mediante esta herramienta es posible:</strong>   
         ul.lista-ul-.mb-2
           li
             i.fas.fa-check-circle.color-chulo.mb-3
@@ -22,7 +22,7 @@
             |  Incrementar conversiones.
           li
             i.fas.fa-check-circle.color-chulo.mb-3
-            |  Medir el rendimiento de palabras claves y de campañas
+            |  Medir el rendimiento de palabras claves y de campañas.
           li
             i.fas.fa-check-circle.color-chulo.mb-3
             |  Acceder a métricas relacionadas con el negocio.
@@ -103,7 +103,7 @@
         p.mb-0 #[b Dispositivo:]  está ligada a las visitas desde móviles. Presenta una información variada en relación con los dispositivos desde los cuales se accede: marca, modelo y tipo de escritura (táctil, joystick o lápiz).
       .col-sm-12.col-lg-5.mb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema4/escala1/img5.svg')
-        p.mb-0 #[b Edad y género:]  esta información requiere una codificación especial en Google Analytics para que genere los datos a partir de páginas de terceros, así como otros datos demográficos. Una vez configurado, se muestran las cantidades de personas de cada género que han visitado el sitio web.
+        p.mb-0 #[b Edad y género:]  esta información requiere una codificación especial en Google <em>Analytics</em> para que genere los datos a partir de páginas de terceros, así como otros datos demográficos. Una vez configurado, se muestran las cantidades de personas de cada género que han visitado el sitio web.
         br
         p.mb-4
         img.w-cus.mb-4(src='@/assets/curso/temas/tema4/escala1/img6.svg')
@@ -117,7 +117,7 @@
     Separador  
     #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 4.3  Informes básicos de audiencia
-    p Los datos de audiencia suelen ser los más relevantes para los usuarios, pues es allí donde se pondrán los contenidos y se generará el feedback; estos informes incluyen:
+    p Los datos de audiencia suelen ser los más relevantes para los usuarios, pues es allí donde se pondrán los contenidos y se generará el <em>feedback</em>; estos informes incluyen:
      
     .row.align-items-center.justify-content-center.mb-5
       .col-lg-11.col-md-12.col-12
@@ -130,7 +130,7 @@
                 .row
                   .col-lg-12.col-md-6.col-12
                     p <strong>Usuarios activos</strong> 
-                    p.mb-0 Muestra los usuarios que han iniciado una sesión en los últimos 1, 7, 14 o 30 días.
+                    p.mb-0 Indica los usuarios que han iniciado una sesión en los últimos 1, 7, 14 o 30 días.
                 .row
                   .col-lg-12.col-md-6.col-12
                     p <strong>Análisis de grupo</strong> 
@@ -192,7 +192,7 @@
           .col-sm-3.col-lg-5.mb-4.d-none.d-lg-block
             img(src='@/assets/curso/temas/tema4/tarjeta1/imagen4.svg')
         .title-card.bg8.mx-2.mb-4 CTR
-        p.mb-0.text-center Click Through Rate, porcentaje de usuarios que hacen clic en los anuncios de la empresa en relación con las impresiones de estos.
+        p.mb-0.text-center <em>Click Through Rate</em>, porcentaje de usuarios que hacen clic en los anuncios de la empresa en relación con las impresiones de estos.
       .tarjeta.color-secundario-cus.py-4.px-5
         .row.justify-content-center.mb-4
           .col-sm-3.col-lg-5.mb-4.d-none.d-lg-block
@@ -223,19 +223,19 @@
           ul.lista-ul-
             li.mb-5
               i.fas.fa-check-circle.color-chulo.mb-0
-              |  <strong>Visión general:</strong> muestra de forma general las principales métricas de adquisición, comportamiento y conversión.
+              |  <strong>Visión general:</strong> indica de forma general las principales métricas de adquisición, comportamiento y conversión.
             li.mb-5
               i.fas.fa-check-circle.color-chulo.mb-0
               |  <strong>Todo el tráfico:</strong> en estas métricas se puede ver la procedencia de los visitantes: canales, mapas de árbol, fuente o medio y referencia.
             li.mb-5
               i.fas.fa-check-circle.color-chulo.mb-0
-              |  <strong>Adwords:</strong> con estos informes se puede analizar el rendimiento de las campañas, anuncios y palabras clave.
+              |  <strong><em>Adwords:</em></strong> con estos informes se puede analizar el rendimiento de las campañas, anuncios y palabras clave.
             li.mb-5
               i.fas.fa-check-circle.color-chulo.mb-0
               |  <strong>Social:</strong> con esta métrica se analiza el comportamiento de los botones sociales que se hayan instalado en la web.
             li.mb-0
               i.fas.fa-check-circle.color-chulo.mb-0
-              |  <strong>Campañas:</strong> permite medir la efectividad y el comportamiento de las campañas online.
+              |  <strong>Campañas:</strong> permite medir la efectividad y el comportamiento de las campañas <em>online</em>.
       .col-md-6
         img(src='@/assets/curso/temas/tema4/imagen6.svg')
 

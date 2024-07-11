@@ -13,7 +13,7 @@
       .col-sm-12.col-lg-8
         .cajon.color-secundario.p-4.mb-4
           p.p-3 <strong>Instagram es hoy la red social con mayor popularidad en el mundo y se ha convertido en una plataforma esencial para procesos de comercialización. Hoy en día IG, como también se le conoce, tiene más de 1.000 millones de usuarios en el mundo y 25 millones de perfiles comerciales; además, alrededor de 2 millones de anunciantes utilizan las historias y los anuncios de esta red social.</strong> 
-        p.mb-0 Para acceder a las métricas de IG es necesario crear una cuenta comercial. Desde allí se puede acceder a Instagram Insights, que es una plataforma gratuita que genera información acerca de seguidores, publicaciones e historias.
+        p.mb-0 Para acceder a las métricas de IG es necesario crear una cuenta comercial. Desde allí se puede acceder a Instagram <em>Insights</em>, que es una plataforma gratuita que genera información acerca de seguidores, publicaciones e historias.
         p.mt-4 En IG se tienen en cuenta:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -109,7 +109,7 @@
                 | - Del perfil
               li.mb-2
                 i
-                | - De hashtags
+                | - De <em>hashtags</em>
               li.mb-0
                 i
                 | - De otro origen
@@ -214,7 +214,7 @@
             |  Número de impresiones.
           li
             i.fas.fa-check-circle.color-chulo.mb-3
-            |  Número de engagement.
+            |  Número de <em>engagement</em>.
           li
             i.fas.fa-check-circle.color-chulo.mb-3
             |  Segmento demográfico (género, rango de edad, ubicación).
@@ -237,7 +237,7 @@
             .col-1
               img(src='@/assets/curso/temas/tema3/acordeon1/icono1.svg', alt='')
             .col-11
-              p Se recurre a un número inferior de intermediarios disponibles; es decir solo algunos pueden vender tu producto. Un solo distribuidor recibe el derecho de vender la marca y se compromete a no vender marcas competitivas en la misma categoría.:
+              p Indica el porcentaje de hombres y mujeres que hacen parte de los seguidores de la cuenta.
           .row.justify-content-center.align-items-center
             .col-10
               .row.justify-content-center
@@ -255,14 +255,14 @@
             .col-1
               img(src='@/assets/curso/temas/tema3/acordeon1/icono2.svg', alt='')
             .col-11
-              p Muestra el origen de las cuentas que siguen el perfil.
+              p Indica el origen de las cuentas que siguen el perfil.
       .row(titulo="Rangos de edad")
         .col-md-10.mb-4.mb-md-0
           .row.ps-5
             .col-1
               img(src='@/assets/curso/temas/tema3/acordeon1/icono3.svg', alt='')
             .col-11
-              p Muestra los rangos de edad que más siguen la cuenta y los discrimina entre hombres y mujeres.
+              p Indica los rangos de edad que más siguen la cuenta y los discrimina entre hombres y mujeres.
           .row.justify-content-center.align-items-center
             .col-10
               .row.justify-content-center
@@ -280,7 +280,7 @@
             .col-1
               img(src='@/assets/curso/temas/tema3/acordeon1/icono4.svg', alt='')
             .col-11
-              p Muestra los rangos de edad que más siguen la cuenta y los discrimina entre hombres y mujeres.
+              p Indica los rangos de edad que más siguen la cuenta y los discrimina entre hombres y mujeres.
           .row.justify-content-center.align-items-center
             .col-10
               .row.justify-content-center

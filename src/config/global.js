@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Analítica web',
     descripcionCurso:
-      'En este componente se abordarán conceptos relacionados con la analítica web, la cual es la medición, análisis y presentación de datos de monitorización a las actividades que una empresa realiza en medios online, con el fin de realizar acciones de mejoramiento de las estrategias y con ello, generar mayor efectividad de los planes de marketing y comunicación digital llevados a cabo por la empresa para dar cumplimiento a los objetivos.',
+      'En este componente se abordarán conceptos relacionados con la analítica web, la cual es la medición, análisis y presentación de datos de monitorización a las actividades que una empresa realiza en medios <em>online</em>, con el fin de realizar acciones de mejoramiento de las estrategias y con ello, generar mayor efectividad de los planes de <em>marketing</em> y comunicación digital llevados a cabo por la empresa para dar cumplimiento a los objetivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/imagen.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/banner-principal-ok.png'),
     imagenesDecorativasBanner: [

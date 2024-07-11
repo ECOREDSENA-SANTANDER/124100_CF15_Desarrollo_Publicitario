@@ -12,9 +12,9 @@
        img(src='@/assets/curso/temas/tema2/imagen1.svg')
       .col-sm-12.col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p.p-4 <strong>Siendo la red social con el mayor número de usuarios a nivel mundial, Facebook es una plataforma por excelencia para el desarrollo de estrategias de marketing viral.</strong> 
+          p.p-4 <strong>Siendo la red social con el mayor número de usuarios a nivel mundial, Facebook es una plataforma por excelencia para el desarrollo de estrategias de <em>marketing</em> viral.</strong> 
           p.ps-4 <strong>Los diferentes servicios de pago y gratuitos que ofrece permiten que las empresas realicen diferentes tipos de actividades comerciales y promocionales que pueden medir con datos estadísticos puntuales, los cuales se pueden monitorizar semanalmente.</strong>  
-        p.mb-0 Facebook en la actualidad permite realizar unas mediciones muy completas de la actividad de las fanpage. Para el ingreso a estas estadísticas es necesario acceder a la página y en el menú en la parte izquierda, ingresar a estadísticas, allí se verá la información en forma detallada.
+        p.mb-0 Facebook en la actualidad permite realizar unas mediciones muy completas de la actividad de las <em>fanpage</em>. Para el ingreso a estas estadísticas es necesario acceder a la página y en el menú en la parte izquierda, ingresar a estadísticas, allí se verá la información en forma detallada.
         p.mt-4 A continuación, se resaltan algunas de las estadísticas más importantes que ofrece Facebook:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -24,7 +24,7 @@
     Separador  
     #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 2.1  Resumen
-    p Muestra datos generales de la actividad de la página, en un periodo de 7 o 28 días o de los últimos dos días.
+    p Presenta datos generales de la actividad de la página, en un periodo de 7 o 28 días o de los últimos dos días.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-10
@@ -46,13 +46,13 @@
         ul.lista-ul-.mb-0
           li.mb-5
             i.fas.fa-check-circle.color-chulo.mb-3
-            | #[b  Acciones en la página:] muestra el número de clics en el contacto de la página y en el botón de Call to Action que esta tenga.
+            | #[b  Acciones en la página:] indica el número de clics en el contacto de la página y en el botón de <em>Call to Action</em> que esta tenga.
           li.mb-5  
             i.fas.fa-check-circle.color-chulo.mb-3
-            | #[b  Vistas previas a la página:] muestra el número de veces que las personas pasaron el mouse sobre la foto de perfil para obtener una vista previa.
+            | #[b  Vistas previas a la página:] indica el número de veces que las personas pasaron el <em>mouse</em> sobre la foto de perfil para obtener una vista previa.
           li.mb-5
             i.fas.fa-check-circle.color-chulo.mb-3
-            | #[b  Visitas a la página:] muestra el número de veces que las personas vieron el perfil de la página.
+            | #[b  Visitas a la página:] indica el número de veces que las personas vieron el perfil de la página.
           li.mb-0
             i.fas.fa-check-circle.color-chulo.mb-3
             | #[b  Me gusta de la página:] indica el número de personas nuevas que dieron “me gusta” a la página, discriminados entre orgánicos y pagados.
@@ -78,14 +78,14 @@
             | #[b  Interacción con la publicación:] indica el número de veces que las personas interactuaron con una de las publicaciones a través de reacciones, comentarios, contenido compartido y clics.
           li.mb-0
             i.fas.fa-check-circle.color-chulo.mb-3
-            | #[b  Nivel de respuesta:] indica el porcentaje de los mensajes que se respondieron a través de Messenger.
+            | #[b  Nivel de respuesta:] indica el porcentaje de los mensajes que se respondieron a través de <em>Messenger</em>.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5
         ul.lista-ul-.mb-0
           li.mb-5
             i.fas.fa-check-circle.color-chulo.mb-3
-            | #[b  Videos:] muestra el número de veces que los videos de la página fueron reproducidos por, al menos, 3 segundos, discriminado por pagados, totales y no pagados.
+            | #[b  Videos:] indica el número de veces que los videos de la página fueron reproducidos por, al menos, 3 segundos, discriminado por pagados, totales y no pagados.
           li.mb-5  
             i.fas.fa-check-circle.color-chulo.mb-3
             | #[b  Seguidores de la página:] número de personas nuevas que comenzaron a seguir la página, distinguiendo por pagado y no pagado.
@@ -130,19 +130,19 @@
           .col-6.col-md-3.col-lg-6
               img.mt-5(src='@/assets/curso/temas/tema2/tarjeta1/imagen1.svg')
         h2.mt-5 Total de seguidores
-        p Muestra el acumulado de seguidores por día a través de una gráfica lineal.
+        p Indica el acumulado de seguidores por día a través de una gráfica lineal.
       .col-sm-12.col-md-12.col-lg-4.tarjeta.bgimg6.p-5.mb-cus
         .row.justify-content-center.mb-4
           .col-6.col-md-3.col-lg-6
               img.mt-5(src='@/assets/curso/temas/tema2/tarjeta1/imagen2.svg')
         h2.mt-5.text-white Seguidores de la página
-        p.text-white  Muestra la cantidad de personas que siguen la página, clasificando en orgánicos, pagados y anulaciones de seguimientos. 
+        p.text-white  Indica la cantidad de personas que siguen la página, clasificando en orgánicos, pagados y anulaciones de seguimientos. 
       .col-sm-12.col-md-12.col-lg-4.tarjeta.bgimg7.p-5
         .row.justify-content-center.mb-4
           .col-6.col-md-3.col-lg-6
               img.mt-5(src='@/assets/curso/temas/tema2/tarjeta1/imagen3.svg')
         h2.mt-5 Origen de seguimientos de la página
-        p Muestra el número de veces que se comenzó a seguir la página diferenciando el origen de seguimiento; si fue desde un computador, desde la propia página, a través de una búsqueda, desde una aplicación u otro.
+        p Indica el número de veces que se comenzó a seguir la página diferenciando el origen de seguimiento; si fue desde un computador, desde la propia página, a través de una búsqueda, desde una aplicación u otro.
 
     Separador  
     #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
@@ -195,7 +195,7 @@
               .titulo-sexto.color-secundario
                 h5 Figura 4.
                 span
-                  |  Estadísticas de me gusta
+                  |  Estadísticas de "me gusta"
               figure
                 img(src='@/assets/curso/temas/tema2/imagen10.svg' alt="Imagen de una captura de pantalla que presenta tres gráficos con características acerca de los me gusta recibidos en la página.")
       p.mt-5 Las siguientes son tres tipos de estas métricas:
@@ -212,13 +212,13 @@
           .col-6.col-md-3.col-lg-6
               img.mt-3(src='@/assets/curso/temas/tema2/imagen11.svg')
         h2.mt-5.text-white “Me gusta” de la página
-        p.text-white.text-small  Este punto muestra el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se muestran los picos de estas variables y el detalle de cada uno de ellos en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos. 
+        p.text-white.text-small  Este punto indica el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se muestran los picos de estas variables y el detalle de cada uno de ellos en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos. 
       .col-sm-12.col-md-12.col-lg-4.tarjeta.bgimg7.p-5
         .row.justify-content-center.mb-4
           .col-6.col-md-3.col-lg-6
               img.mt-3(src='@/assets/curso/temas/tema2/imagen11.svg')
         h2.mt-5 Dónde se produjeron los “Me gusta”
-        p.text-small Este punto muestra el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se muestran los picos de estas variables y el detalle de cada uno de ellos en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos.
+        p.text-small Este punto indica el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se muestran los picos de estas variables y el detalle de cada uno de ellos en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos.
 
     Separador  
     #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
@@ -257,7 +257,7 @@
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-5.mb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema2/escala1/imagen1.svg')
-        p.mb-0 #[b Visitas totales:] muestra el total de visitas que tuvo el perfil de la página en determinado día o periodo.
+        p.mb-0 #[b Visitas totales:] indica el total de visitas que tuvo el perfil de la página en determinado día o periodo.
         br
         p.mb-4.bb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema2/escala1/imagen2.svg')
@@ -265,7 +265,7 @@
         br
         p.mb-4.bb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema2/escala1/imagen3.svg')
-        p.mb-0 #[b Orígenes principales:]  muestra el total de los usuarios conectados por origen de referencia: Facebook, Google.com, Google.com.co, Google.es o Yahoo!.
+        p.mb-0 #[b Orígenes principales:]  indica el total de los usuarios conectados por origen de referencia: Facebook, Google.com, Google.com.co, Google.es o Yahoo!.
       .col-sm-12.col-lg-5.mb-cus
         img.w-cus.bl-cus-img.mb-4.mt-4.ps-3(src='@/assets/curso/temas/tema2/escala1/imagen4.svg')
         p.bl-cus #[b Total visitantes:]  este indicador muestra el número de personas que, con las sesiones iniciadas, vieron el perfil de la página. Esta sección muestra, además, otros datos importantes:
@@ -311,7 +311,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema1/imagen2.png', style="max-width: 60%; margin: auto;")
         .col-sm-12.col-lg-10
-          p.mb-0.text-white.fw-bold En esta sección se muestran dos tipos de datos en relación con las publicaciones; el primero es la información del momento en que están conectados los fans de la página y el segundo es el rendimiento de los tipos de publicaciones.
+          p.mb-0.text-white.fw-bold En esta sección se presentan dos tipos de datos en relación con las publicaciones; el primero es la información del momento en que están conectados los fans de la página y el segundo es el rendimiento de los tipos de publicaciones.
     p.mb-4-mt-4 En este mismo apartado, Facebook permite ver datos y estadísticas relacionadas con cada anuncio y que son de alta relevancia para la toma de decisiones: fecha de publicación, tipo de publicación y otros datos más detallados:
 
     .row.justify-content-center.mb-5.mt-5(data-aos="zoom-in-left")
@@ -321,26 +321,26 @@
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
               h2.text-center.mt-4 Segmentación
-              p.mb-0.text-center Muestra el segmento de mercado al que se dirigió la publicación.
+              p.mb-0.text-center Indica el segmento de mercado al que se dirigió la publicación.
       .col-sm-12.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/tarjeta2/imagen2.svg')
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
               h2.text-center.mt-4 Alcance
-              p.mb-0.text-center Muestra a cuántas personas llegó la publicación y separa entre fans y no fans.
+              p.mb-0.text-center Indica a cuántas personas llegó la publicación y separa entre fans y no fans.
       .col-sm-12.col-lg-4.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/tarjeta2/imagen3.svg')
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
               h2.text-center.mt-4 Interacción 
-              p.mb-0.text-center En este punto muestra el total de clics que recibe cada publicación y las reacciones, comentarios y las veces que se compartió el mismo.
+              p.mb-0.text-center En este punto se indica el total de clics que recibe cada publicación y las reacciones, comentarios y las veces que se compartió el mismo.
     
     Separador  
     #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 2.8  Historias
-    p Este apartado muestra de forma detallada las cifras de historias publicadas en la página. La información está desglosada en: veces únicas abiertas, interacciones y número de historias publicadas.
+    p Este apartado presenta de forma detallada las cifras de historias publicadas en la página. La información está desglosada en: veces únicas abiertas, interacciones y número de historias publicadas.
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-10
@@ -357,7 +357,7 @@
     Separador  
     #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 2.9  Personas
-    p Esta sección de las estadísticas de Facebook es también muy importante. Muestra el número de personas que vieron alguna de las publicaciones realizadas en la página con variables como sexo y edad; datos que han sido suministrados por los mismos usuarios.
+    p Esta sección de las estadísticas de Facebook es también muy importante. Presenta el número de personas que vieron alguna de las publicaciones realizadas en la página con variables como sexo y edad; datos que han sido suministrados por los mismos usuarios.
 
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-10
@@ -371,6 +371,9 @@
               figure
                 img(src='@/assets/curso/temas/tema2/imagen16.svg' alt="Imagen de captura de pantalla que presenta características de las personas que siguen la página.")
 
+    .row.justify-content-center.align-items-center.mb-5.mt-5(data-aos="zoom-in-left")
+      p.text-center Esta sección muestra otras variables de alta utilidad para la toma de decisiones:
+
     .row.justify-content-center.mb-5.mt-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-3.mb-cus
         .tarjeta-avatar
@@ -378,14 +381,14 @@
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
               h2.text-center.mt-4 Tus fans
-              p.mb-0.text-center Muestra el total por rango de edad y sexo de las personas que vieron alguna publicación de la página.
+              p.mb-0.text-center Indica el total por rango de edad y sexo de las personas que vieron alguna publicación de la página.
       .col-sm-12.col-lg-3.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/tarjeta3/imagen2.svg')
           .tarjeta.color-secundario-cus.w-100
             .p-4.text-center
               h2.text-center.mt-4 Tus seguidores
-              p.mb-0.text-center Muestra el total de las personas que siguen la página con rangos de edad y sexo.
+              p.mb-0.text-center Indica el total de las personas que siguen la página con rangos de edad y sexo.
       .col-sm-12.col-lg-3.mb-cus
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema2/tarjeta3/imagen3.svg')

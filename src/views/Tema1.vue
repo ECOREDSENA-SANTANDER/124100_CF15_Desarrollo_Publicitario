@@ -42,20 +42,20 @@
         .row.justify-content-center.mb-4
           .col-6.col-md-3.col-lg-6
               img.mt-5(src='@/assets/curso/temas/tema1/tarjeta1/imagen1.svg')
-        h2.mt-5 Social analytics
+        h2.mt-5 <em>Social analytics</em>
         p.text-small La llegada de las redes sociales ha obligado a que tanto sus usuarios desde el ámbito comercial, como sus administradores; implementen técnicas de análisis de la información que en ese tipo de plataformas es masiva y muy relevante para el proceso comercial.
       .col-sm-12.col-md-12.col-lg-4.tarjeta.bgimg6.p-5.mb-cus
         .row.justify-content-center.mb-4
           .col-6.col-md-3.col-lg-6
               img.mt-5(src='@/assets/curso/temas/tema1/tarjeta1/imagen2.svg')
-        h2.mt-5.text-white Mobile analytics
-        p.text-white.text-small  La llegada de los teléfonos inteligentes trajo consigo un nuevo sistema de navegación, gestión, trabajo, entrenamiento y organización. Las aplicaciones (App), al igual que los sitios web y las plataformas online, genera una gran cantidad de información y datos que, al ser organizados y analizados permiten la toma de decisiones de forma oportuna y adecuada. 
+        h2.mt-5.text-white <em>Mobile analytics</em>
+        p.text-white.text-small  La llegada de los teléfonos inteligentes trajo consigo un nuevo sistema de navegación, gestión, trabajo, entrenamiento y organización. Las aplicaciones (App), al igual que los sitios web y las plataformas <em>online</em>, genera una gran cantidad de información y datos que, al ser organizados y analizados permiten la toma de decisiones de forma oportuna y adecuada. 
       .col-sm-12.col-md-12.col-lg-4.tarjeta.bgimg7.p-5
         .row.justify-content-center.mb-4
           .col-6.col-md-3.col-lg-6
               img.mt-5(src='@/assets/curso/temas/tema1/tarjeta1/imagen3.svg')
-        h2.mt-5 Big data
-        p.text-small  Nunca ene el mundo se había tenido tanta información circulando y a disposición de casi cualquier persona que tenga acceso a internet. Los datos que generan las redes sociales, los sistemas de información, los sitios web y las entidades gubernamentales y privadas permiten conocer a un nivel superior como desarrollar el proceso comercial y de marketing en cualquier empresa.
+        h2.mt-5 <em>Big data</em>
+        p.text-small  Nunca en el mundo se había tenido tanta información circulando y a disposición de casi cualquier persona que tenga acceso a internet. Los datos que generan las redes sociales, los sistemas de información, los sitios web y las entidades gubernamentales y privadas permiten conocer a un nivel superior como desarrollar el proceso comercial y de <em>marketing</em> en cualquier empresa.
 
     Separador  
     #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
