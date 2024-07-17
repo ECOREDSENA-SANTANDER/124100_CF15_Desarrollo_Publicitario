@@ -1,7 +1,7 @@
 <template lang="pug">
 .curso-main-container.pb-3
   BannerInterno
-  .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
+  .container.tarjeta.tarjeta--blanca.p-md-5.mb-5
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 5
@@ -15,7 +15,7 @@
       .col-sm-12.col-lg-4
         img(src='@/assets/curso/temas/tema5/imagen1.svg')
 
-    .row.justify-content-center.mb-5(data-aos="zoom-in-left")
+    .row.justify-content-center(data-aos="zoom-in-left")
       .col-sm-12.col-lg-7
         img(src='@/assets/curso/temas/tema5/imagen2.svg')
 
