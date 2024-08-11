@@ -224,18 +224,18 @@
     p Esta información es muy importante para conocer el arquetipo de los usuarios que siguen una cuenta. Es vital para la toma de decisiones del negocio en cuanto a promoción y comercialización. Para tener acceso a esta información es necesario acceder a “Estadísticas” y luego hacer clic en “Público”. Encontrando:
 
 
-    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
+    AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris estilo1")
       .row(titulo="Sexo")
         .col-md-11.mb-4.mb-md-0
           .row.ps-5
-            .col-1
+            .col-3.col-md-2.col-lg-1.mb-3.mb-md-0
               img(src='@/assets/curso/temas/tema3/acordeon1/icono1.svg', alt='')
-            .col-11
+            .col-12.col-md-10.col-lg-11
               p Indica el porcentaje de hombres y mujeres que hacen parte de los seguidores de la cuenta.
           .row.justify-content-center.align-items-center
-            .col-10
+            .col-12.col-lg-10
               .row.justify-content-center
-                .col-10
+                .col-12.col-lg-10
                   .cajon.p-5.mb-4
                     .titulo-sexto.color-secundario
                       h5 Figura 12.

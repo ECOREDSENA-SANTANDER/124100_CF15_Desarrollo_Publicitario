@@ -258,27 +258,25 @@
         p.mb-4.bb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema2/escala1/imagen3.svg')
         p.mb-0 #[b Orígenes principales:]  indica el total de los usuarios conectados por origen de referencia: Facebook, Google.com, Google.com.co, Google.es o Yahoo!.
-      .col-sm-12.col-lg-5.mb-cus
-        img.w-cus.bl-cus-img.mb-4.mt-4.ps-3(src='@/assets/curso/temas/tema2/escala1/imagen4.svg')
-        p.bl-cus #[b Total visitantes:]  este indicador muestra el número de personas que, con las sesiones iniciadas, vieron el perfil de la página. Esta sección muestra, además, otros datos importantes:
-        ul.lista-ul.ps-3.bl-cus
+      .col-sm-12.col-lg-5.mb-cus.bl-cus
+        img.w-cus-3.mb-4.mt-4.ps-3(src='@/assets/curso/temas/tema2/escala1/imagen4.svg')
+        p #[b Total visitantes:]  este indicador muestra el número de personas que, con las sesiones iniciadas, vieron el perfil de la página. Esta sección muestra, además, otros datos importantes:
+        ul.lista-ul.ps-3.fa-ul
           li.mb-2
             i.fas.fa-check-circle.color-chulo.mb-3
-            | #[b  Por sección:]  personas que iniciaron sesión y vieron las diferentes pestañas del perfil de la página.
+            span.mb-0 #[b  Por sección:]  personas que iniciaron sesión y vieron las diferentes pestañas del perfil de la página.
           li.mb-2  
             i.fas.fa-check-circle.color-chulo.mb-3
-            | #[b  Por edad y sexo:]  personas que iniciaron sesión que vieron el perfil de la página diferenciados por edad y sexo.
+            span.mb-0 #[b  Por edad y sexo:]  personas que iniciaron sesión que vieron el perfil de la página diferenciados por edad y sexo.
           li.mb-2
             i.fas.fa-check-circle.color-chulo.mb-3
-            | #[b  Por país:]  personas que iniciaron sesión que vieron el perfil de la página discriminados por país de origen.
+            span.mb-0 #[b  Por país:]  personas que iniciaron sesión que vieron el perfil de la página discriminados por país de origen.
           li.mb-2
             i.fas.fa-check-circle.color-chulo.mb-3
-            | #[b  Por ciudad:]  personas que iniciaron sesión y que vieron el perfil de la página mostrando la ciudad de origen.
+            span.mb-0 #[b  Por ciudad:]  personas que iniciaron sesión y que vieron el perfil de la página mostrando la ciudad de origen.
           li.mb-2
             i.fas.fa-check-circle.color-chulo.mb-3
-            | #[b  Por dispositivo:]  personas que iniciaron sesión y que vieron el perfil de la página, permitiendo diferenciar el tipo de dispositivo desde el cual accedieron: computador o móvil.
-        br.bl-cus
-        br.bl-cus
+            span.mb-0 #[b  Por dispositivo:]  personas que iniciaron sesión y que vieron el perfil de la página, permitiendo diferenciar el tipo de dispositivo desde el cual accedieron: computador o móvil.
       
     Separador  
     #t_1_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
