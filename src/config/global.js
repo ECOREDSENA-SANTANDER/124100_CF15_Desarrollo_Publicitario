@@ -136,7 +136,7 @@ export default {
         subMenu: [
           {
             numero: '4.1',
-            titulo: 'Informes de audiencia en <i>Google Analytics</i> ',
+            titulo: 'Informes de audiencia en Google <i>Analytics</i> ',
             hash: 't_4_1',
           },
           {

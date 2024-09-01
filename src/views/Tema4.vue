@@ -55,7 +55,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema1/imagen2.png', style="max-width: 60%; margin: auto;")
         .col-sm-12.col-lg-10
-          h4.mb-0.text-white.fw-bold Para el funcionamiento de #[em Google Analytics] es necesario crear una cuenta que permite acceder al menú para realizar todos los análisis y métricas que permite la plataforma. En cada cuenta creada se enlaza, al menos, una web de la empresa que puede ser administrada por varios usuarios y para la que se pueden crear diversas visitas. Si una empresa tiene varios sitios web se puede hacer seguimientos a estos desde una misma cuenta.
+          h4.mb-0.text-white.fw-bold Para el funcionamiento de Google #[em Analytics] es necesario crear una cuenta que permite acceder al menú para realizar todos los análisis y métricas que permite la plataforma. En cada cuenta creada se enlaza, al menos, una web de la empresa que puede ser administrada por varios usuarios y para la que se pueden crear diversas visitas. Si una empresa tiene varios sitios web se puede hacer seguimientos a estos desde una misma cuenta.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-9
@@ -108,14 +108,14 @@
 
     Separador  
     #t_4_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
-      h2 4.1  Informes de audiencia en #[em Google Analytics]
+      h2 4.1  Informes de audiencia en  Google #[em Analytics]
 
     .row.justify-content-center.align-items-center.bg3(data-aos="zoom-in-left")
       .col-6.col-md-4.col-lg-3
         img.mt-5.mb-5(src='@/assets/curso/temas/tema4/imagen4.svg')
       .col-sm-12.col-md-8.col-lg-7
         #t_1_1.titulo-segundo.color-secundario.ps-5.mt-5
-          h2 Informes de audiencia en #[em Google Analytics]
+          h2 Informes de audiencia en Google #[em Analytics]
         p.mb-5.ps-5 Las mediciones de audiencia son una información con mucho valor para la empresa. Estas permiten conocer el perfil en detalle de los visitantes de una página para la toma de decisiones. Se encuentra:
         .row.ps-5.mb-5
           .col-12
@@ -142,7 +142,7 @@
         p.mb-0 #[b Dispositivo:]  está ligada a las visitas desde móviles. Presenta una información variada en relación con los dispositivos desde los cuales se accede: marca, modelo y tipo de escritura (táctil, joystick o lápiz).
       .col-sm-12.col-md-12.col-lg-5.mb-cus
         img.w-cus.mb-4(src='@/assets/curso/temas/tema4/escala1/img5.svg')
-        p.mb-0 #[b Edad y género:]  esta información requiere una codificación especial en #[em Google Analytics] para que genere los datos a partir de páginas de terceros, así como otros datos demográficos. Una vez configurado, se muestran las cantidades de personas de cada género que han visitado el sitio web.
+        p.mb-0 #[b Edad y género:]  esta información requiere una codificación especial en  Google #[em Analytics] para que genere los datos a partir de páginas de terceros, así como otros datos demográficos. Una vez configurado, se muestran las cantidades de personas de cada género que han visitado el sitio web.
         p.mb-4
         img.w-cus.mb-4(src='@/assets/curso/temas/tema4/escala1/img6.svg')
         p.mb-0 #[b Ubicación geográfica:]  determina la ubicación de cada visitante a partir de la IP de conexión a internet.
