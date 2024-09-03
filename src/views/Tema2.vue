@@ -14,7 +14,7 @@
         .cajon.color-secundario.p-4.mb-4
           p.p-4 #[b Siendo la red social con el mayor número de usuarios a nivel mundial, Facebook es una plataforma por excelencia para el desarrollo de estrategias de #[em marketing] viral. ] 
           p.ps-4 #[b Los diferentes servicios de pago y gratuitos que ofrece permiten que las empresas realicen diferentes tipos de actividades comerciales y promocionales que pueden medir con datos estadísticos puntuales, los cuales se pueden monitorizar semanalmente. ]  
-        p.mb-0 Facebook en la actualidad permite realizar unas mediciones muy completas de la actividad de las #[em anpage]. Para el ingreso a estas estadísticas es necesario acceder a la página y en el menú en la parte izquierda, ingresar a estadísticas, allí se verá la información en forma detallada.
+        p.mb-0 Facebook en la actualidad permite realizar unas mediciones muy completas de la actividad de las #[em fanpage]. Para el ingreso a estas estadísticas es necesario acceder a la página y en el menú en la parte izquierda, ingresar a estadísticas, allí se verá la información en forma detallada.
         p.mt-4 A continuación, se resaltan algunas de las estadísticas más importantes que ofrece Facebook:
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
@@ -158,7 +158,7 @@
             span.mb-0 #[b Páginas en observación:]  este componente permite comparar el rendimiento de la página y las publicaciones que se hagan en ella con otras páginas similares.
           li.mb-0
             i.fas.fa-check-circle.color-chulo.mb-3
-            span.mb-0 #[b  Tus 5 publicaciones más recientes:]  Facebook muestra un resumen de las 5 últimas publicaciones mostrando la cantidad de personas que interactuaron con ellas a través de reacciones, compartidas o comentadas.
+            span.mb-0 #[b  Tus 5 publicaciones más recientes:]  facebook indica un resumen de las 5 últimas publicaciones mostrando la cantidad de personas que interactuaron con ellas a través de reacciones, compartidas o comentadas.
       .col-10.col-md-10.col-lg-5
         img(src='@/assets/curso/temas/tema2/imagen6.svg')
 
@@ -276,7 +276,7 @@
           .col-6.col-md-3.col-lg-6
               img.mt-3.p-3(src='@/assets/curso/temas/tema2/imagen11.svg')
         h2 Dónde se produjeron los “Me gusta”
-        p Este punto indica el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se muestran los picos de estas variables y el detalle de cada uno de ellos en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos.
+        p Este punto indica el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se indican los picos de estas variables y el detalle de cada uno de ellos en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos.
 
     Separador  
     #t_2_5.titulo-segundo.color-secundario(data-aos="zoom-in-left")
@@ -420,7 +420,7 @@
             img(src='@/assets/curso/temas/tema2/imagen16.svg' alt="Imagen de captura de pantalla que presenta características de las personas que siguen la página.")
 
     .row.justify-content-center.align-items-center.mb-5.mt-5(data-aos="zoom-in-left")
-      p.text-center Esta sección muestra otras variables de alta utilidad para la toma de decisiones:
+      p.text-center Esta sección presenta otras variables de alta utilidad para la toma de decisiones:
 
     .row.justify-content-center.mb-5.mt-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-3.mb-cus
