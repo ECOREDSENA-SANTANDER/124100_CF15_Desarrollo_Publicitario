@@ -199,7 +199,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/prueba.pdf',
+        download: 'downloads/CF15.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -277,9 +277,8 @@ export default {
     },
     {
       referencia:
-        'Benítez, M. (2019). Diccionario de marketing digital. MKT2U. ',
-      link:
-        'https://communitymanager2u.com/blog-diccionario-de-marketing-digital/ ',
+        'Diccionario de Marketing - Más de 1.000 términos técnicos del Mkt. (s/f). FMK - Foromarketing.',
+      link: 'https://www.foromarketing.com/glosario-de-marketing/',
     },
     {
       referencia: 'Cibrián, I. (2018). Marketing digital. ESIC Editorial.',
@@ -315,12 +314,12 @@ export default {
       autores: [
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
-          cargo: 'Responsable del Ecosistema',
+          cargo: 'Responsable del ecosistema',
           centro: 'Dirección General',
         },
         {
           nombre: 'Claudia Johana Gómez',
-          cargo: 'Responsable de Línea de Producción',
+          cargo: 'Responsable de línea de producción',
           centro: 'Regional Santander Centro Agroturístico',
         },
       ],
@@ -330,7 +329,7 @@ export default {
       autores: [
         {
           nombre: 'Carolina Jiménez Suescún',
-          cargo: 'Evaluador Instruccional',
+          cargo: 'Evaluadora instruccional',
           centro: 'Regional Santander Centro Agroturístico',
         },
       ],
@@ -345,12 +344,12 @@ export default {
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrollador <i>Fullstack Junior</i>',
+          cargo: 'Desarrollador <i>full-stack</i> Junior',
           centro: 'Regional Santander Centro Agroturístico',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
-          cargo: 'Animadora y Productora Multimedia',
+          cargo: 'Animadora y productora multimedia',
           centro: 'Regional Santander Centro Agroturístico',
         },
       ],
@@ -360,7 +359,7 @@ export default {
       autores: [
         {
           nombre: 'Yineth Ibette González Quintero',
-          cargo: 'Validador de Recursos Educativos Digitales',
+          cargo: 'Validador de recursos educativos digitales',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {

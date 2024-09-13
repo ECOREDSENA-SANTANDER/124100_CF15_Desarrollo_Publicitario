@@ -29,8 +29,8 @@
 
     figure.mb-5(data-aos="zoom-in-left")
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/VF8kSA8kuRs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Redacción de textos publicitarios.
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/v8cwzCo6VtI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Video: ¿Qué es la analítica web?
 
     Separador  
     #t_1_2.titulo-segundo.color-secundario(data-aos="zoom-in-left")

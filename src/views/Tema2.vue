@@ -290,10 +290,11 @@
         #t_1_1.titulo-segundo.color-secundario.md-5.mt-5
           h2 Alcance
         p.mb-5 Es una de las métricas más relevantes en un plan de medios y hace parte de los objetivos KPI que desde las estrategias de medios se plantean.
-        a.boton.color-acento-botones.mb-5(href="https://www.youtube.com/watch?v=HhAMuQUXaDM" target="_blank")
+        a.boton.color-acento-botones.mb-5(:href="obtenerLink('/downloads/alcance-2.pdf')" target="_blank")
           span Descargar
           i.fas.fa-download
-      
+  
+
     Separador  
     #t_2_6.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 2.6  Visitas a la página

@@ -2,7 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno(icono="fas fa-sitemap" titulo="Síntesis")
   .container.tarjeta.tarjeta--blanca.p-4.p-md-5
-    p.mb-5 A continuación, se muestra un mapa conceptual con los elementos más importantes desarrollados en este componente.
+    p.mb-5 La medición, análisis y presentación de datos e información de una empresa de manera online en sus redes sociales, determina la efectividad de sus planes de marketing y comunicación, y con esto la eficacia de las estrategias manejadas para alcanzar los objetivos planteados. En el siguiente diagrama, se presentan los temas trabajados dentro del componente formativo.
 
     .row.justify-content-center
       .col-lg-10.mb-5
