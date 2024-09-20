@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="129.737" height="112.651" viewBox="0 0 129.737 112.651">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_401592" data-name="Rectángulo 401592" width="129.737" height="108.651" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_1102054" data-name="Grupo 1102054" transform="translate(-250.264 -6568.832)">
+    <path id="_12068" data-name="12068" d="M98.737,72.292c-13.285-1.834-27.318-1.386-39.407,4.421-16.765,8.052-27.775,26.309-28.2,44.9S40.4,158.479,55.36,169.523s34.7,14.959,53,11.643c18.453-3.344,35.773-14.186,45.4-30.28,6.172-10.321,9.057-23.065,5.647-34.6-2.059-6.961-6.267-13.128-11.217-18.437A82.875,82.875,0,0,0,98.737,72.292Z" transform="translate(219.145 6499.174)" fill="#26aab7"/>
+    <g id="Grupo_1100044" data-name="Grupo 1100044" transform="translate(250.264 6568.832)">
+      <g id="Grupo_1100045" data-name="Grupo 1100045" transform="translate(0 0)">
+        <g id="Grupo_1100044-2" data-name="Grupo 1100044" clip-path="url(#clip-path)">
+          <path id="Trazado_875965" data-name="Trazado 875965" d="M24.687,85.9H91.438A33.349,33.349,0,0,0,72.078,55.645a23.718,23.718,0,1,0-28.032,0A33.349,33.349,0,0,0,24.687,85.9" transform="translate(12.73 6.613)" fill="#fff" stroke="#62529b" stroke-width="3"/>
+          <path id="Trazado_875966" data-name="Trazado 875966" d="M0,102.039H81.491A40.719,40.719,0,0,0,57.855,65.1a28.954,28.954,0,1,0-34.222,0A40.717,40.717,0,0,0,0,102.039" transform="translate(0 6.613)" fill="#fff" stroke="#62529b" stroke-width="3"/>
+          <path id="Trazado_875967" data-name="Trazado 875967" d="M92.69,71.568H60.307A12.287,12.287,0,0,1,48.021,59.282v-47A12.286,12.286,0,0,1,60.307,0H92.69a12.286,12.286,0,0,1,12.284,12.286v47A12.286,12.286,0,0,1,92.69,71.568" transform="translate(24.762 0)" fill="#ff5023" stroke="#fff" stroke-width="1"/>
+        </g>
+      </g>
+      <text id="_15" data-name="15" transform="translate(77.574 47.926)" fill="#fff" font-size="42" font-family="SegoeUI, Segoe UI"><tspan x="0" y="0">15</tspan></text>
+    </g>
+  </g>
+</svg>
