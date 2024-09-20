@@ -59,7 +59,7 @@
     Separador  
     #t_3_1.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 3.1  Métricas de las publicaciones
-    p En este punto es posible ver todas las publicaciones ordenadas de las más a la menos vista. También es posible filtrarlas con los siguientes criterios:
+    p En este punto se presentan todas las publicaciones ordenadas de las más a la menos vista. También es posible filtrarlas con los siguientes criterios:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-6
@@ -94,7 +94,7 @@
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-4
-        p Cada una de las publicaciones tiene su información específica, dando clic sobre ellas se puede acceder a “Ver estadísticas”, donde es posible observar:
+        p Cada una de las publicaciones tiene su información específica, dando clic sobre ellas se puede acceder a “Ver estadísticas”, donde se encuentra:
         ul.lista-ul.fa-ul.mb-0
           li.mb-0
             i.fas.fa-check-circle.color-chulo.mb-3
@@ -108,7 +108,7 @@
           li.mb-4
             i.fas.fa-check-circle.color-chulo.mb-3
             span.mb-0  Veces guardada
-        p También se pueden ver las interacciones y las acciones realizadas por los seguidores:
+        p También se encuentran las interacciones y las acciones realizadas por los seguidores:
         ul.lista-ul.fa-ul.mb-0
           li.mb-0
             i.fas.fa-check-circle.color-chulo.mb-3
