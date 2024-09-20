@@ -137,16 +137,16 @@
             ul.lista-ul.mb-0.ps-5
               li.mb-2
                 i
-                | - Del inicio
+                span - Del inicio
               li.mb-2
                 i
-                | - Del perfil
+                span - Del perfil
               li.mb-2
                 i
-                | - De #[em hashtags ]
+                span - De <i>hashtags</i>
               li.mb-0
                 i
-                | - De otro origen
+                span - De otro origen
   
     .row.justify-content-center.align-items-center(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-10

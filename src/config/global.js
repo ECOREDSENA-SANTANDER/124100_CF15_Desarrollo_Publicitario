@@ -98,6 +98,11 @@ export default {
             titulo: 'Historias',
             hash: 't_2_8',
           },
+          {
+            numero: '2.9',
+            titulo: 'Personas',
+            hash: 't_2_9',
+          },
         ],
       },
       {
