@@ -12,8 +12,8 @@
        img(src='@/assets/curso/temas/tema2/imagen1.png')
       .col-sm-12.col-md-12.col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p.p-4 #[b Siendo la red social con el mayor número de usuarios a nivel mundial, Facebook es una plataforma por excelencia para el desarrollo de estrategias de #[em marketing] viral. ] 
-          p.ps-4 #[b Los diferentes servicios de pago y gratuitos que ofrece permiten que las empresas realicen diferentes tipos de actividades comerciales y promocionales que pueden medir con datos estadísticos puntuales, los cuales se pueden monitorizar semanalmente. ]  
+          p.p-4 Siendo la red social con el mayor número de usuarios a nivel mundial, Facebook es una plataforma por excelencia para el desarrollo de estrategias de #[em marketing] viral.
+          p.ps-4 Los diferentes servicios de pago y gratuitos que ofrece permiten que las empresas realicen diferentes tipos de actividades comerciales y promocionales que pueden medir con datos estadísticos puntuales, los cuales se pueden monitorizar semanalmente.
         p.mb-0 Facebook en la actualidad permite realizar unas mediciones muy completas de la actividad de las #[em fanpage]. Para el ingreso a estas estadísticas es necesario acceder a la página y en el menú en la parte izquierda, ingresar a estadísticas, allí se verá la información en forma detallada.
         p.mt-4 A continuación, se resaltan algunas de las estadísticas más importantes que ofrece Facebook:
 

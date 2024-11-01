@@ -12,7 +12,7 @@
        img(src='@/assets/curso/temas/tema3/imagen1.png')
       .col-sm-12.col-md-12.col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p.p-3 #[b Instagram es hoy la red social con mayor popularidad en el mundo y se ha convertido en una plataforma esencial para procesos de comercialización. Hoy en día IG, como también se le conoce, tiene más de 1.000 millones de usuarios en el mundo y 25 millones de perfiles comerciales; además, alrededor de 2 millones de anunciantes utilizan las historias y los anuncios de esta red social. ] 
+          p.p-3 Instagram es hoy la red social con mayor popularidad en el mundo y se ha convertido en una plataforma esencial para procesos de comercialización. Hoy en día IG, como también se le conoce, tiene más de 1.000 millones de usuarios en el mundo y 25 millones de perfiles comerciales; además, alrededor de 2 millones de anunciantes utilizan las historias y los anuncios de esta red social. 
         p.mb-0 Para acceder a las métricas de IG es necesario crear una cuenta comercial. Desde allí se puede acceder a Instagram #[em Insights], que es una plataforma gratuita que genera información acerca de seguidores, publicaciones e historias.
         p.mt-4 En IG se tienen en cuenta:
 
@@ -254,7 +254,7 @@
             i.fas.fa-check-circle.color-chulo.mb-3
             span.mb-0  Valor invertido.
         .cajon.color-secundario.p-4.mb-4
-          p.p-4 #[b Adicionalmente, es posible realizar una comparación de estos resultados con la misma publicación realizada de forma orgánica. ] 
+          p.p-4 Adicionalmente, es posible realizar una comparación de estos resultados con la misma publicación realizada de forma orgánica.
 
     Separador  
     #t_3_4.titulo-segundo.color-secundario(data-aos="zoom-in-left")

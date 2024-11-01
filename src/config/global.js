@@ -204,7 +204,7 @@ export default {
       {
         icono: 'fas fa-file-pdf',
         titulo: 'Descargar PDF',
-        download: 'downloads/CF15.pdf',
+        download: 'downloads/CF15_124100_DU.pdf',
       },
       {
         icono: 'fas fa-download',
@@ -325,7 +325,7 @@ export default {
         {
           nombre: 'Claudia Johana Gómez',
           cargo: 'Responsable de línea de producción',
-          centro: 'Regional Santander Centro Agroturístico',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -335,7 +335,7 @@ export default {
         {
           nombre: 'Carolina Jiménez Suescún',
           cargo: 'Evaluadora instruccional',
-          centro: 'Regional Santander Centro Agroturístico',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },
@@ -345,17 +345,17 @@ export default {
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
           cargo: 'Diseñador web',
-          centro: 'Regional Santander Centro Agroturístico',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
           cargo: 'Desarrollador <i>full-stack</i> Junior',
-          centro: 'Regional Santander Centro Agroturístico',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'María Alejandra Vera Briceño',
           cargo: 'Animadora y productora multimedia',
-          centro: 'Regional Santander Centro Agroturístico',
+          centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
     },

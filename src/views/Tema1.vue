@@ -10,7 +10,7 @@
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-8
         .cajon.color-secundario.p-4.mb-4
-          p.p-4.mt-2.text-bold  De igual forma que en medios convencionales, la necesidad de información y medición de efectividad de la comunicación en medios digitales lleva a realizar una serie de mediciones derivadas de los indicadores que se han mencionado anteriormente y de los datos suministrados por las diferentes plataformas web.   
+          p.p-4.mt-2  De igual forma que en medios convencionales, la necesidad de información y medición de efectividad de la comunicación en medios digitales lleva a realizar una serie de mediciones derivadas de los indicadores que se han mencionado anteriormente y de los datos suministrados por las diferentes plataformas web.   
         p.mb-0 Dichos datos son un insumo muy importante para el futuro desarrollo de estrategias y realizar correcciones casi en tiempo real de las acciones que se están realizando en la actualidad, dando la opción de redireccionarlas para el logro de los objetivos planteados, minimizar los riesgos al final de la campaña y optimizar la inversión que se haya realizado.
       .col-8.col-md-8.col-lg-4
        img(src='@/assets/curso/temas/tema1/imagen1.png')

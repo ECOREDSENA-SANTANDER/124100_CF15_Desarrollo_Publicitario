@@ -10,7 +10,7 @@
     .row.justify-content-center.mb-3(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-6
         .cajon.color-secundario.p-3.mb-5
-          p.p-4.mb-0 #[b Es una herramienta gratuita que permite la optimización de los sitios web para mejorar el ROI de los negocios #[em online]. Mediante esta herramienta es posible: ]   
+          p.p-4.mb-0 Es una herramienta gratuita que permite la optimización de los sitios web para mejorar el ROI de los negocios #[em online]. Mediante esta herramienta es posible: 
         ul.lista-ul.fa-ul
           li
             i.fas.fa-check-circle.color-chulo.mb-3
