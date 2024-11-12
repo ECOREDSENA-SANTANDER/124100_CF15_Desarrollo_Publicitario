@@ -69,7 +69,7 @@
           h3 Tiempo
           p.mb-4 Desde los últimos 7 días hasta los últimos 2 años.
           h3 Métricas
-          p.mb-4 Alcance, clics “cómo llegar”, clics en el sitio web, comentarios, correos electrónicos, impresiones, interacciones, llamadas, Me gusta, mensajes de texto, seguimientos, veces compartido, veces guardado, vista al perfil.
+          p.mb-4 Alcance, clics “cómo llegar”, clics en el sitio #[em web], comentarios, correos electrónicos, impresiones, interacciones, llamadas, Me gusta, mensajes de texto, seguimientos, veces compartido, veces guardado, vista al perfil.
       .col-12.col-md-12.col-lg-6
         .row.justify-content-center.align-items-center.bg5
           img.img-ajustada.mt-5(src='@/assets/curso/temas/tema3/imagen3.svg', alt='')
@@ -90,7 +90,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema1/imagen2.png', style="max-width: 60%; margin: auto;")
         .col-sm-12.col-lg-10
-          h4.mb-0.text-white.fw-bold Con este tipo de filtros es posible hacer un análisis de los mensajes en función con el rendimiento, así se pueden identificar, por ejemplo, aquellos anuncios que son preferidos por los usuarios y desarrollar más contenidos similares que atraigan nuevos usuarios o aumenten el flujo de lectores.
+          h4.mb-0.text-white.fw-bold Con este tipo de filtros, es posible hacer un análisis de los mensajes en función con el rendimiento, así se pueden identificar, por ejemplo, aquellos anuncios que son preferidos por los usuarios y desarrollar más contenidos similares que atraigan nuevos usuarios o aumenten el flujo de lectores.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-4
@@ -161,7 +161,7 @@
     Separador  
     #t_3_2.titulo-segundo.color-secundario(data-aos="zoom-in-left")
       h2 3.2  Métricas de historias
-    p Para acceder a las estadísticas de las historias, es necesario ir a “Estadísticas” de la cuenta a analizar, luego a “Contenido”, en la parte inferior aparecen las historias, allí se debe hacer clic en “Ver todo” para acceder a la información detallada. Se puede seleccionar ver las historias de los últimos 14 o 7 días, así como las de las últimas 24 horas. Se debe seleccionar la historia a la que se desea ver las estadísticas.
+    p Para acceder a las estadísticas de las historias, es necesario ir a “Estadísticas” de la cuenta a analizar, luego ir a “Contenido” y en la parte inferior, donde aparecen las historias, dar clic en “Ver todo”, con el fin de acceder al detalle de la información. Se puede seleccionar ver las historias de los últimos 14 o 7 días, así como las de las últimas 24 horas.  Para ver las estadísticas, se debe seleccionar la historia a consultar.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-10
@@ -281,7 +281,7 @@
                         | Métricas de los seguidores
                     figure
                           img(src='@/assets/curso/temas/tema3/acordeon1/imagen1.svg' alt="Imagen de captura de pantalla donde se detallan características de hombres y mujeres que siguen el perfil.")
-      .row(titulo="Lugares principales ciudades o países")
+      .row(titulo="Lugares principales, ciudades o países")
         .col-sm-12.col-md-12.col-lg-12.mb-4.mb-md-0
           .row.ps-5
             .col-6.col-md-2.col-lg-1

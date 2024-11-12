@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Analítica web',
+    componenteFormativo: 'Analítica <i>web</i>',
     descripcionCurso:
-      'En este componente se abordarán conceptos relacionados con la analítica web, la cual es la medición, análisis y presentación de datos de monitorización a las actividades que una empresa realiza en medios <i>online</i>, con el fin de realizar acciones de mejoramiento de las estrategias y con ello, generar mayor efectividad de los planes de <i>marketing</i> y comunicación digital llevados a cabo por la empresa para dar cumplimiento a los objetivos.',
+      'En este componente se abordarán conceptos relacionados con la analítica <i>web</i>, la cual es la medición, análisis y presentación de datos de monitorización a las actividades que una empresa realiza en medios <i>online</i>, con el fin de realizar acciones de mejoramiento de las estrategias y con ello, generar mayor efectividad de los planes de <i>marketing</i> y comunicación digital llevados a cabo por la empresa para dar cumplimiento a los objetivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/imagen.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/banner-principal-ok.png'),
     imagenesDecorativasBanner: [
@@ -32,22 +32,22 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Analítica web',
+        titulo: 'Analítica <i>web</i>',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: '¿Qué es la analítica web?',
+            titulo: '¿Qué es la analítica <i>web</i>?',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Tendencias de la analítica web',
+            titulo: 'Tendencias de la analítica <i>web</i>',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Métricas en la analítica web?',
+            titulo: 'Métricas en la analítica <i>web</i>?',
             hash: 't_1_3',
           },
         ],
@@ -236,7 +236,7 @@ export default {
     {
       termino: 'Alcance orgánico',
       significado:
-        'Porcentaje o dato numérico que evalúa el impacto y el número de personas que han visto una publicación de manera natural, sin ningún tipo de promoción o publicidad de pago (Benitex, 2019).',
+        'Porcentaje o dato numérico que evalúa el impacto y el número de personas que han visto una publicación de manera natural, sin ningún tipo de promoción o publicidad de pago (Benítez, 2019).',
     },
     {
       termino: 'Alcance viral',
@@ -244,14 +244,14 @@ export default {
         'Unidad de medida que calcula el número de personas que han visto una publicación a través de otros contactos.',
     },
     {
-      termino: 'Analítica web',
+      termino: 'Analítica <i>web</i>',
       significado:
-        'Forma de medir y analizar los datos de tráfico de un sitio web, a através del cual se permiten tomar las mejores decisiones y optimizar los objetivos de la empresa.',
+        'Forma de medir y analizar los datos de tráfico de un sitio <i>web</i>, a través de la cual se permiten tomar las mejores decisiones y optimizar los objetivos de la empresa.',
     },
     {
       termino: '<i>Cookies</i>',
       significado:
-        'Pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio web y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
+        'Pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio <i>web</i> y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
     },
     {
       termino: '<i>Fanpage</i>',
@@ -261,17 +261,17 @@ export default {
     {
       termino: '<i>Hashtag</i>',
       significado:
-        'Etiqueta formada por una palabra o un conjunto de palabras precedidas por el símbolo numeral (#) que trasmite una idea, un nombre o un concepto que normalmente va asociado con un mensaje o trexto.',
+        'Etiqueta formada por una palabra o un conjunto de palabras precedidas por el símbolo numeral (#) que transmite una idea, un nombre o un concepto que normalmente va asociado con un mensaje o texto.',
     },
     {
       termino: '<i>Marketing de contenidos</i>',
       significado:
-        'Estrategias de <i>marketing</i> enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios principalmente a través del blog y del social media marketing.',
+        'Estrategias de <i>marketing</i> enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios, principalmente a través del blog y del social media marketing.',
     },
     {
       termino: '<i>Retargeting</i>',
       significado:
-        'Nueva técnica de publicidad que consiste en mostrar al usuario productos afines, una especie de filtro personalizados de productos y servicios en los que se está más receptivo recibir información. El producto te sigue por la red (Benitez, 2019).',
+        'Nueva técnica de publicidad que consiste en mostrar al usuario productos afines, una especie de filtro personalizado de productos y servicios en los que se está más receptivo a recibir información. El producto te sigue por la red (Benítez, 2019).',
     },
   ],
   referencias: [
@@ -290,7 +290,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'Maldonado, S. (2016). Analítica web. ESIC Editorial.',
+      referencia: 'Maldonado, S. (2016). Analítica <i>web</i>. ESIC Editorial.',
       link: '',
     },
     {
@@ -324,7 +324,7 @@ export default {
         },
         {
           nombre: 'Claudia Johana Gómez',
-          cargo: 'Responsable de línea de producción',
+          cargo: 'Responsable de la línea de producción',
           centro: 'Regional Santander - Centro Agroturístico',
         },
       ],
@@ -344,12 +344,12 @@ export default {
       autores: [
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
-          cargo: 'Diseñador web',
+          cargo: 'Diseñador <i>web</i>',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
           nombre: 'Lucenith Pinilla Moreno',
-          cargo: 'Desarrollador <i>full-stack</i> Junior',
+          cargo: 'Desarrollador <i>full stack</i> Junior',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {

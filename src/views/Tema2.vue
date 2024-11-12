@@ -204,7 +204,7 @@
           .col-6.col-md-3.col-lg-6
               img.mt-5.p-3(src='@/assets/curso/temas/tema2/tarjeta1/imagen3.svg')
         h2 Origen de seguimientos de la página
-        p Indica el número de veces que se comenzó a seguir la página diferenciando el origen de seguimiento; si fue desde un computador, desde la propia página, a través de una búsqueda, desde una aplicación u otro.
+        p Indica el número de veces que se comenzó a seguir la página, diferenciando el origen de seguimiento; si fue desde un computador, desde la propia página, a través de una búsqueda, desde una aplicación u otro.
 
     Separador  
     #t_2_3.titulo-segundo.color-secundario(data-aos="zoom-in-left")
@@ -270,7 +270,7 @@
           .col-6.col-md-3.col-lg-6
               img.mt-3.p-3(src='@/assets/curso/temas/tema2/imagen11.svg')
         h2.text-white “Me gusta” de la página
-        p.text-white  Este punto indica el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se muestran los picos de estas variables y el detalle de cada uno de ellos en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos. 
+        p.text-white  Este punto indica el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se muestran los picos de estas variables y el detalle de cada una de ellas en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos. 
       .col-sm-12.col-md-12.col-lg-4.tarjeta.bgimg7.p-5
         .row.mb-4
           .col-6.col-md-3.col-lg-6
@@ -332,10 +332,10 @@
             span.mb-0 #[b  Por sección:]  personas que iniciaron sesión y vieron las diferentes pestañas del perfil de la página.
           li.mb-2  
             i.fas.fa-check-circle.color-chulo.mb-3
-            span.mb-0 #[b  Por edad y sexo:]  personas que iniciaron sesión que vieron el perfil de la página diferenciados por edad y sexo.
+            span.mb-0 #[b  Por edad y sexo:]  personas que iniciaron sesión que vieron el perfil de la página diferenciado, por edad y sexo.
           li.mb-2
             i.fas.fa-check-circle.color-chulo.mb-3
-            span.mb-0 #[b  Por país:]  personas que iniciaron sesión que vieron el perfil de la página discriminados por país de origen.
+            span.mb-0 #[b  Por país:]  personas que iniciaron sesión que vieron el perfil de la página discriminada por país de origen.
           li.mb-2
             i.fas.fa-check-circle.color-chulo.mb-3
             span.mb-0 #[b  Por ciudad:]  personas que iniciaron sesión y que vieron el perfil de la página mostrando la ciudad de origen.
