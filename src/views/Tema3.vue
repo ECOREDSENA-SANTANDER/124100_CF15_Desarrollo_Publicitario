@@ -83,6 +83,7 @@
         .row.justify-content-center.bg2
           figure
             img(src='@/assets/curso/temas/tema3/imagen4.svg' alt="Imagen de una captura de pantalla de celular donde se presenta una ruta para acceder a visualizar interacciones con los seguidores.")
+            figcaption.bg10 Fuente: Instagram.
 
     .row.justify-content-center.align-items-center.mb-5.mt-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12.bg1.p-4
@@ -157,6 +158,7 @@
         .row.justify-content-center
           figure
             img(src='@/assets/curso/temas/tema3/imagen7.png' alt="La imagen presenta un ejemplo de las estadísticas de publicaciones, donde se detallan con números las características.")
+            figcaption.bg10 Fuente: Instagram.
 
     Separador  
     #t_3_2.titulo-segundo.color-secundario(data-aos="zoom-in-left")
@@ -172,6 +174,7 @@
         .row.justify-content-center
           figure
             img(src='@/assets/curso/temas/tema3/imagen8.svg' alt="Imagen de captura de pantalla de un celular, donde se detalla información acerca de las historias.")
+            figcaption.bg10 Fuente: Instagram.
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-6
@@ -281,6 +284,7 @@
                         | Métricas de los seguidores
                     figure
                           img(src='@/assets/curso/temas/tema3/acordeon1/imagen1.svg' alt="Imagen de captura de pantalla donde se detallan características de hombres y mujeres que siguen el perfil.")
+                          figcaption.bg10 Fuente: Instagram.
       .row(titulo="Lugares principales, ciudades o países")
         .col-sm-12.col-md-12.col-lg-12.mb-4.mb-md-0
           .row.ps-5
@@ -305,7 +309,8 @@
                       span
                         | Rango de edad
                     figure
-                          img(src='@/assets/curso/temas/tema3/acordeon1/imagen2.svg' alt="Imagen de captura de pantalla que presenta una gráfica acerca de la edad de los seguidores.")
+                      img(src='@/assets/curso/temas/tema3/acordeon1/imagen2.svg' alt="Imagen de captura de pantalla que presenta una gráfica acerca de la edad de los seguidores.")
+                      figcaption.bg10 Fuente: Instagram.
       .row(titulo="Crecimiento")
         .col-sm-12.col-md-12.col-lg-12.mb-4.mb-md-0
           .row.ps-5
@@ -323,8 +328,8 @@
                       span
                         | Crecimiento de seguidores
                     figure
-                          img(src='@/assets/curso/temas/tema3/acordeon1/imagen3.svg' alt="Imagen que presenta  de manera gráfica el crecimiento de los seguidores.")
-
+                      img(src='@/assets/curso/temas/tema3/acordeon1/imagen3.svg' alt="Imagen que presenta  de manera gráfica el crecimiento de los seguidores.")
+                      figcaption.bg10 Fuente: Instagram.
 
 </template>
 

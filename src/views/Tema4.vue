@@ -195,7 +195,7 @@
                 .row
                   .col-lg-12.col-lg-6
                     p #[b ID de usuario ] 
-                    p.mb-0 Es una dificultad en el análisis, pues en realidad se registra un navegador y no un usuario; así, si alguien abre el sitio en tres navegadores diferentes, está generando tres sesiones y no una.
+                    p.mb-0 Es una dificultad en el análisis, en realidad se registra un navegador y no un usuario; así, si alguien abre el sitio en tres navegadores diferentes, está generando tres sesiones y no una.
 
     Separador  
     #t_4_4.titulo-segundo.color-secundario(data-aos="zoom-in-left")

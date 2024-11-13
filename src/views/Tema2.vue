@@ -94,14 +94,15 @@
       .col-xs-12.col-lg-10
         .row.justify-content-center.bg2
           .col-xs-12.col-lg-10
-            .cajon.bg2.p-5.mb-4
+            .cajon.bg2.p-5
               .titulo-sexto.color-secundario
                 h5 Figura 1.
                 span
                   |  Estadística resumen
               figure
                 img(src='@/assets/curso/temas/tema2/imagen3.svg' alt="Imagen de una captura de pantalla donde se presentan de manera gráfica y numérica varias interacciones con el público.")
-    
+                figcaption.bg10 Fuente: Facebook.
+
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       p.text-center Entre ellos se encuentran:
 
@@ -184,6 +185,7 @@
         .row.justify-content-center.bg2
           figure
             img(src='@/assets/curso/temas/tema2/imagen7.svg' alt="Imagen de captura de pantalla donde se presentan 3 gráficas acerca de características de los seguidores.")
+            figcaption.bg10 Fuente: Facebook.
       p.mt-5 Para las estadísticas de seguidores se muestran tres gráficas fundamentales:
 
     .row.tarjeta--container.mb-5(data-aos="zoom-in-left")
@@ -220,6 +222,7 @@
         .row.justify-content-center.bg2
           figure
             img(src='@/assets/curso/temas/tema2/imagen8.svg' alt="Imagen de captura de pantalla donde se presenta la información acerca de los anuncios publicados.")
+            figcaption.bg10 Fuente: Facebook.
       p.mt-5 El informe muestra tres variables fundamentales:
 
     .row.tarjeta--container.mb-5(data-aos="zoom-in-left")
@@ -256,6 +259,7 @@
         .row.justify-content-center.bg2
           figure
             img(src='@/assets/curso/temas/tema2/imagen10.svg' alt="Imagen de una captura de pantalla que presenta tres gráficos con características acerca de los me gusta recibidos en la página.")
+            figcaption.bg10 Fuente: Facebook.
       p.mt-5 Las siguientes son tres tipos de estas métricas:
 
     .row.tarjeta--container.mb-5(data-aos="zoom-in-left")
@@ -309,6 +313,7 @@
         .row.justify-content-center.bg2
           figure
             img(src='@/assets/curso/temas/tema2/imagen13.svg' alt="Imagen de una captura de pantalla que presenta tres gráficas acerca de características de las visitas a la página.")
+            figcaption.bg10 Fuente: Facebook.
       p.mt-5.mb-5.text-center En esta sección es posible ver una serie de datos de forma muy detallada:
 
     .row.justify-content-center.mb-5(data-aos="zoom-in-left")
@@ -353,10 +358,11 @@
         .titulo-sexto.color-secundario
           h5 Figura 6.
           span
-            |  Estadísticas de publicaciones
+            | Tipos de publicaciones
         .row.justify-content-center.bg2
           figure
             img(src='@/assets/curso/temas/tema2/imagen14.svg' alt="Imagen de una captura de pantalla donde se presenta una gráfica acerca de horas en que se ven la publicaciones, y una tabla con características del rendimiento de cada publicación.")
+            figcaption.bg10 Fuente: Facebook.
 
     .row.justify-content-center.align-items-center.mb-5.mt-5(data-aos="zoom-in-left")
       .col-sm-12.col-lg-12.bg1.p-4
@@ -404,6 +410,7 @@
         .row.justify-content-center.bg2
           figure
             img(src='@/assets/curso/temas/tema2/imagen15.svg' alt="Imagen de captura de pantalla donde se presenta de forma numérica, información acerca de la historias.")
+            figcaption.bg10 Fuente: Facebook.
 
     Separador  
     #t_2_9.titulo-segundo.color-secundario(data-aos="zoom-in-left")
@@ -419,6 +426,7 @@
         .row.justify-content-center.bg2
           figure
             img(src='@/assets/curso/temas/tema2/imagen16.svg' alt="Imagen de captura de pantalla que presenta características de las personas que siguen la página.")
+            figcaption.bg10 Fuente: Facebook.
 
     .row.justify-content-center.align-items-center.mb-5.mt-5(data-aos="zoom-in-left")
       p.text-center Esta sección presenta otras variables de alta utilidad para la toma de decisiones:
