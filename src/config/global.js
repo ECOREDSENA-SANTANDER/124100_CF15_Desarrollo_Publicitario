@@ -264,9 +264,9 @@ export default {
         'Etiqueta formada por una palabra o un conjunto de palabras precedidas por el símbolo numeral (#) que transmite una idea, un nombre o un concepto que normalmente va asociado con un mensaje o texto.',
     },
     {
-      termino: '<i>Marketing de contenidos</i>',
+      termino: '<i>Marketing</i> de contenidos',
       significado:
-        'Estrategias de <i>marketing</i> enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios, principalmente a través del blog y del social media marketing.',
+        'Estrategias de <i>marketing</i> enfocadas en ofrecer contenidos útiles y de ayuda a los usuarios, principalmente a través del <i>blog</i> y del <i>social media marketing</i>.',
     },
     {
       termino: '<i>Retargeting</i>',

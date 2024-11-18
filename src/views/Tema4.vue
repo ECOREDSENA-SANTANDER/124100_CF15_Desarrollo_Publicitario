@@ -238,7 +238,7 @@
           .col-sm-3.col-lg-5.mb-4
             img(src='@/assets/curso/temas/tema4/tarjeta1/imagen6.svg')
         .title-card.bg8.mx-2.mb-4 ROI
-        p.mb-0.text-center Retorno sobre la inversión, mide el retorno que obtiene la empresa sobre la inversión generada. Se calcula restando a los ingresos el gasto y dividiendo por los ingresos obtenidos.
+        p.mb-0.text-center Es el retorno sobre la inversión, mide el retorno que obtiene la empresa sobre la inversión generada. Se calcula restando a los ingresos el gasto y dividiendo por los ingresos obtenidos.
       .tarjeta.color-secundario-cus.py-4.px-5
         .row.justify-content-center.mb-4
           .col-sm-3.col-lg-5.mb-4

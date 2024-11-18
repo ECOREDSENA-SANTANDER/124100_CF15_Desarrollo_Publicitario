@@ -101,7 +101,7 @@
                   |  Estadística resumen
               figure
                 img(src='@/assets/curso/temas/tema2/imagen3.svg' alt="Imagen de una captura de pantalla donde se presentan de manera gráfica y numérica varias interacciones con el público.")
-                figcaption.bg10 Fuente: Facebook.
+          figcaption.bg10 Fuente: Facebook.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       p.text-center Entre ellos se encuentran:
@@ -274,13 +274,13 @@
           .col-6.col-md-3.col-lg-6
               img.mt-3.p-3(src='@/assets/curso/temas/tema2/imagen11.svg')
         h2.text-white “Me gusta” de la página
-        p.text-white  Este punto indica el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se muestran los picos de estas variables y el detalle de cada una de ellas en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos. 
+        p.text-white  Este punto indica el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se muestran los picos de estas variables y el detalle de cada uno de ellos en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno. 
       .col-sm-12.col-md-12.col-lg-4.tarjeta.bgimg7.p-5
         .row.mb-4
           .col-6.col-md-3.col-lg-6
               img.mt-3.p-3(src='@/assets/curso/temas/tema2/imagen11.svg')
         h2 Dónde se produjeron los “Me gusta”
-        p Este punto indica el número de “Me gusta” de la página tanto orgánicos, pagos y “Ya no me gusta”. A través de una gráfica lineal se indican los picos de estas variables y el detalle de cada uno de ellos en los que se puede verificar el origen de los “Me gusta” y el porcentaje de cada uno de ellos.
+        p Este indicador presenta el número de veces que las personas hicieron clic en el “Me gusta” de la página e indica el lugar donde se produjo: sección de noticias, en la propia página, a través de una búsqueda, por sugerencias o de personas que restauraron una cuenta inactiva.
 
     Separador  
     #t_2_5.titulo-segundo.color-secundario(data-aos="zoom-in-left")
