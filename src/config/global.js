@@ -256,7 +256,7 @@ export default {
     {
       termino: '<i>Fanpage</i>',
       significado:
-        'Tambien llamada página de fans es la plataforma que ofrece Facebook a las empresas, marcas u organizaciones para visibilizar y conectar con los usuarios (Benitez, 2019).',
+        'Tambien llamada página de fans, es la plataforma que ofrece Facebook a las empresas, marcas u organizaciones para visibilizar y conectar con los usuarios (Benitez, 2019).',
     },
     {
       termino: '<i>Hashtag</i>',

@@ -337,7 +337,7 @@
             span.mb-0 #[b  Por sección:]  personas que iniciaron sesión y vieron las diferentes pestañas del perfil de la página.
           li.mb-2  
             i.fas.fa-check-circle.color-chulo.mb-3
-            span.mb-0 #[b  Por edad y sexo:]  personas que iniciaron sesión que vieron el perfil de la página diferenciado, por edad y sexo.
+            span.mb-0 #[b  Por edad y sexo:]  personas que iniciaron sesión que vieron el perfil de la págin, diferenciado por edad y sexo.
           li.mb-2
             i.fas.fa-check-circle.color-chulo.mb-3
             span.mb-0 #[b  Por país:]  personas que iniciaron sesión que vieron el perfil de la página discriminada por país de origen.

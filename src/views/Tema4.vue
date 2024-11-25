@@ -55,7 +55,7 @@
         .col-sm-12.col-lg-2.d-none.d-lg-block
           img(src='@/assets/curso/temas/tema1/imagen2.png', style="max-width: 60%; margin: auto;")
         .col-sm-12.col-lg-10
-          h4.mb-0.text-white.fw-bold Para el funcionamiento de Google #[em Analytics] es necesario crear una cuenta que permite acceder al menú para realizar todos los análisis y métricas que permite la plataforma. En cada cuenta creada se enlaza, al menos, una #[em web] de la empresa que puede ser administrada por varios usuarios y para la que se pueden crear diversas visitas. Si una empresa tiene varios sitios #[em web], se puede hacer seguimientos a estos desde una misma cuenta.
+          h4.mb-0.text-white.fw-bold Para el funcionamiento de Google #[em Analytics] es necesario crear una cuenta que permite acceder al menú para realizar todos los análisis y métricas que permite la plataforma. En cada cuenta creada se enlaza, al menos, una #[em web] de la empresa que puede ser administrada por varios usuarios y para la que se pueden crear diversas visitas. Si una empresa tiene varios sitios #[em web], se pueden hacer seguimientos a estos desde una misma cuenta.
 
     .row.justify-content-center.align-items-center.mb-5(data-aos="zoom-in-left")
       .col-sm-12.col-md-12.col-lg-9
