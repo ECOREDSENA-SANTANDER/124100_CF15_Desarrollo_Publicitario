@@ -69,7 +69,7 @@
           h3 Tiempo
           p.mb-4 Desde los últimos 7 días hasta los últimos 2 años.
           h3 Métricas
-          p.mb-4 Alcance, clics “cómo llegar”, clics en el sitio #[em web], comentarios, correos electrónicos, impresiones, interacciones, llamadas, Me gusta, mensajes de texto, seguimientos, veces compartido, veces guardado, vista al perfil.
+          p.mb-4 Alcance, clics “cómo llegar”, clics en el sitio web, comentarios, correos electrónicos, impresiones, interacciones, llamadas, Me gusta, mensajes de texto, seguimientos, veces compartido, veces guardado, vista al perfil.
       .col-12.col-md-12.col-lg-6
         .row.justify-content-center.align-items-center.bg5
           img.img-ajustada.mt-5(src='@/assets/curso/temas/tema3/imagen3.svg', alt='')

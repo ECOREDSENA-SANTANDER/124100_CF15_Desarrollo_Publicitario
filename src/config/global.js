@@ -1,8 +1,8 @@
 export default {
   global: {
-    componenteFormativo: 'Analítica <i>web</i>',
+    componenteFormativo: 'Analítica web',
     descripcionCurso:
-      'En este componente se abordarán conceptos relacionados con la analítica <i>web</i>, la cual es la medición, análisis y presentación de datos de monitorización a las actividades que una empresa realiza en medios <i>online</i>, con el fin de realizar acciones de mejoramiento de las estrategias y con ello, generar mayor efectividad de los planes de <i>marketing</i> y comunicación digital llevados a cabo por la empresa para dar cumplimiento a los objetivos.',
+      'En este componente se abordarán conceptos relacionados con la analítica web, la cual es la medición, análisis y presentación de datos de monitorización a las actividades que una empresa realiza en medios <i>online</i>, con el fin de realizar acciones de mejoramiento de las estrategias y con ello, generar mayor efectividad de los planes de <i>marketing</i> y comunicación digital llevados a cabo por la empresa para dar cumplimiento a los objetivos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/imagen.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/banner-principal-ok.png'),
     imagenesDecorativasBanner: [
@@ -32,22 +32,22 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Analítica <i>web</i>',
+        titulo: 'Analítica web',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: '¿Qué es la analítica <i>web</i>?',
+            titulo: '¿Qué es la analítica web?',
             hash: 't_1_1',
           },
           {
             numero: '1.2',
-            titulo: 'Tendencias de la analítica <i>web</i>',
+            titulo: 'Tendencias de la analítica web',
             hash: 't_1_2',
           },
           {
             numero: '1.3',
-            titulo: 'Métricas en la analítica <i>web</i>?',
+            titulo: 'Métricas en la analítica web?',
             hash: 't_1_3',
           },
         ],
@@ -244,14 +244,14 @@ export default {
         'Unidad de medida que calcula el número de personas que han visto una publicación a través de otros contactos.',
     },
     {
-      termino: 'Analítica <i>web</i>',
+      termino: 'Analítica web',
       significado:
-        'Forma de medir y analizar los datos de tráfico de un sitio <i>web</i>, a través de la cual se permiten tomar las mejores decisiones y optimizar los objetivos de la empresa.',
+        'Forma de medir y analizar los datos de tráfico de un sitio web, a través de la cual se permiten tomar las mejores decisiones y optimizar los objetivos de la empresa.',
     },
     {
       termino: '<i>Cookies</i>',
       significado:
-        'Pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio <i>web</i> y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
+        'Pequeños fragmentos de información que quedan registrados en el navegador cuando se visita un sitio web y que permiten a este sitio seguir el rastro de la actividad de los usuarios.',
     },
     {
       termino: '<i>Fanpage</i>',
@@ -290,7 +290,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'Maldonado, S. (2016). Analítica <i>web</i>. ESIC Editorial.',
+      referencia: 'Maldonado, S. (2016). Analítica web. ESIC Editorial.',
       link: '',
     },
     {
@@ -344,7 +344,7 @@ export default {
       autores: [
         {
           nombre: 'Edison Eduardo Mantilla Cuadros',
-          cargo: 'Diseñador <i>web</i>',
+          cargo: 'Diseñador web',
           centro: 'Regional Santander - Centro Agroturístico',
         },
         {
